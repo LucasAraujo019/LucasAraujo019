@@ -7,8 +7,12 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5571991180282&text&type=phone_number&app_absent=0)
 [![e-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucas.oliveira019@hotmail.com)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAraujo019&show_icons=true&theme=radical)
-  
+
+<div align="center">
+  <a href="https://github.com/LucasAraujo019">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAraujo019&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAraujo019&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 ### Tecnologias que eu uso no meu dia a dia
 
