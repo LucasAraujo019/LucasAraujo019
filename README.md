@@ -27,4 +27,7 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img align="center" alt="mysql" src=" https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
+
+ 
 </div>
